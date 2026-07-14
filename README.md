@@ -67,7 +67,7 @@ Mais do que um exercício técnico, este projeto é também um registro do iníc
 
 **Resposta do NotebookLM:**
 
-O medo de estar "velha demais" para uma transição de carreira, especialmente aos 39 anos, é um sentimento comum relatado por outras mulheres que já percorreram esse caminho. As fontes trazem estratégias práticas e mentais para lidar com esse desafio:
+O medo de estar "velha demais" para uma transição de carreira, especialmente aos 38 anos, é um sentimento comum relatado por outras mulheres que já percorreram esse caminho. As fontes trazem estratégias práticas e mentais para lidar com esse desafio:
 
 **1. Reenquadre a perspectiva sobre a idade**
 - A área de TI e Dados evolui rapidamente, então todas as profissionais precisam aprender ferramentas novas constantemente — o aprendizado contínuo é a regra do setor, não a exceção. Sempre há espaço para quem está começando.
