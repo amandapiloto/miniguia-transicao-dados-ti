@@ -6,7 +6,7 @@
 
 ## 🎯 Contexto e Objetivos
 
-Este projeto nasce de uma motivação pessoal. Aos 39 anos, decidi mudar de rota e migrar minha carreira para a área de Dados e Tecnologia. Depois de anos atuando na área administrativa e de um período dedicado integralmente ao cuidado do meu filho, resolvi tomar as rédeas da minha trajetória profissional e investir no que realmente me realiza.
+Este projeto nasce de uma motivação pessoal. Aos 38 anos, decidi mudar de rota e migrar minha carreira para a área de Dados e Tecnologia. Depois de anos atuando na área administrativa e de um período dedicado integralmente ao cuidado do meu filho, resolvi tomar as rédeas da minha trajetória profissional e investir no que realmente me realiza.
 
 Escolhi este tema porque vivo esses desafios na prática: além das barreiras comuns a qualquer pessoa em transição de carreira, sinto o peso adicional de ser mulher e estar fora da faixa etária considerada "padrão" para quem está entrando na área de tecnologia. São obstáculos que, se eu fosse um homem mais jovem, provavelmente não teria que enfrentar da mesma forma — ou pelo menos não com a mesma intensidade.
 
