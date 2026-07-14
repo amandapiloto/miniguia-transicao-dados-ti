@@ -174,6 +174,6 @@ Prompts testados e validados durante o processo, que podem ser reaproveitados po
 
 ## 💡 Conclusão
 
-Este projeto começou como uma tarefa técnica de um bootcamp, mas se transformou em algo maior: um retrato do momento em que decidi, aos 39 anos, recomeçar. Documentar essa transição — os medos, as descobertas e o plano de estudos — é também um compromisso comigo mesma de seguir em frente.
+Este projeto começou como uma tarefa técnica de um bootcamp, mas se transformou em algo maior: um retrato do momento em que decidi, aos 38 anos, recomeçar. Documentar essa transição — os medos, as descobertas e o plano de estudos — é também um compromisso comigo mesma de seguir em frente.
 
 > *"Se para você iniciar foi difícil, para as próximas mulheres que seguirão será mais fácil."* — Mirela Domiciano
