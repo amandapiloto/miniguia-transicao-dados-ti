@@ -85,7 +85,7 @@ O medo de estar "velha demais" para uma transição de carreira, especialmente a
 **4. Busque comunidades de apoio**
 - Existem iniciativas focadas em apoiar mulheres (incluindo sem conhecimento prévio em programação) a ingressarem na tecnologia, como o PrograMaria, parceira citada que fomenta diversidade de gênero no setor.
 
-**Minha reflexão:** Essa resposta trouxe um ponto que eu não tinha pensado — aplicar dados no meu trabalho atual antes mesmo de migrar de cargo. Isso vira uma ação prática que posso testar já, em vez de esperar a "transição completa" acontecer.
+**Minha reflexão:** Minha reflexão: Como pedi demissão para me dedicar totalmente aos estudos, esse ponto sobre "aplicar dados no trabalho atual" não se aplica diretamente a mim agora. Mas me fez pensar em alternativas parecidas: posso aplicar análise de dados em projetos pessoais e estudos de caso, construindo um portfólio prático mesmo sem estar empregada, para já chegar às entrevistas com experiência demonstrável.
 
 ---
 
